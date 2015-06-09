@@ -1,1 +1,1 @@
-Site,Point.ID,Observer,Date,Visit,Time.1,Time.2,Time.3,Time.4,X.coordinate,Y.coordinate,Wind.speed,Wind.direction,SkyPUVI,PUVI-12,JDL,06/30/73,1,6:48,6:58,7:34,7:45,12.45576,27.4523,2,E,1
+Site,Point.ID,Observer,Date,Visit,Time.1,Time.2,Time.3,Time.4,X.coordinate,Y.coordinate,Wind.speed,Wind.direction,SkyPUVI,PUVI-12,JDL,06/30/73,1,6:48,6:58,7:34,7:45,12.455760,27.452300,2,E,1PALO,PALO-11,JDL,06/30/73,1,6:45,6:50,7:35,8:40,14.762530,12.479940,2,NE,8
