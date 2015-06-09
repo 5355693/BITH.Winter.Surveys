@@ -1,4 +1,7 @@
 # BITH.Winter.Surveys
-## Results of surveys conducted during the winter for Bicknell's Thrush
-Files include a 
-Results and analysis of winter surveys for Bicknell's Thrush
+## Files related to results of surveys conducted during the winter for Bicknell's Thrush and their analysis.
+
+###Project Description
+
+###Description of files included
+
